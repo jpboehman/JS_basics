@@ -1,0 +1,16 @@
+{
+  "name": "playground",
+  "version": "1.0.0",
+  "description": "Testing npm modules in a safe space",
+  "main": "algorithms.js",
+  "dependencies": {
+    "jest": "^27.0.5",
+    "prompt-sync-history": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC"
+}
